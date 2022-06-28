@@ -1,0 +1,33 @@
+.container{
+    text-align: center;
+    margin-top: 20px;
+}
+h1{
+    font-family: cursive;
+}
+table{
+    margin: auto;
+}
+input{
+    font-size: 27px;
+    width: auto;
+    border: 5px solid  black ;
+    border-radius: 20px;
+    
+}
+button{
+    font-size: 40px;
+    background-color: rgb(241, 229, 12);
+    width: 80px;
+    height: 55px;
+    border-radius: 15px;
+    
+}
+.output{  
+      
+    display: inline-block;
+    background-color: rgb(218, 62, 23);
+    padding: 20px;
+    border-radius: 30px;
+    border: 4px solid black;
+}
